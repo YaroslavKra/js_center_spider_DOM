@@ -11,5 +11,5 @@ const spiderHeight = spider.offsetHeight;
 
 spider.style.position = 'absolute';
 
-spider.style.left = ((wallWidth - spiderWidth) / 2) + 10 + 'px';
-spider.style.top = ((wallHeight - spiderHeight) / 2) + 10 + 'px';
+spider.style.left = (wallWidth - spiderWidth) / 2 + 10 + 'px';
+spider.style.top = (wallHeight - spiderHeight) / 2 + 10 + 'px';
